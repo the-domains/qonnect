@@ -1,0 +1,28 @@
+name: qonnect
+favicon: null
+layout_spectrum: 0.3764918053057045
+typography_spectrum: 0.027854652609676123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.19022325961850584
+  lightness: 0.6033130132127553
+  saturation: 0.5874229439068586
+  rhythmicContrast: 0.3053508761804551
+purpose: []
