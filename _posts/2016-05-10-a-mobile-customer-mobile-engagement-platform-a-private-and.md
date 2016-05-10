@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'A mobile customer mobile engagement platform. A private and anonymous communication channel for you customers to interact with your business. Delivery of personalized campaigns on the mobile devices of your customers. That’s qonnect. '
-datePublished: '2016-05-10T18:09:09.629Z'
-dateModified: '2016-05-10T18:00:35.678Z'
+datePublished: '2016-05-10T18:18:19.064Z'
+dateModified: '2016-05-10T18:18:13.363Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-a-mobile-customer-mobile-engagement-platform-a-private-and.md
@@ -29,4 +29,4 @@ A mobile customer mobile engagement platform. A private and anonymous communicat
 * Use Bluetooth Beacons to engage customers on your premises
 * Surprise your customers with scratch tickets
 
-qonnect offers upgradeable plans for membership, there is no limit for sending push notifications, no registration limit for Bluetooth Beacons and you can send as many scratch tickets to your customers as you want to.
+# qonnect offers upgradeable plans for membership, there is no limit for sending push notifications, no registration limit for Bluetooth Beacons and you can send as many scratch tickets to your customers as you want to.
