@@ -1,6 +1,6 @@
 name: qonnect
 favicon: null
-layout_spectrum: 0.3764918053057045
+layout_spectrum: 0.5694
 typography_spectrum: 0.027854652609676123
 title: qonnect
 cta:
@@ -22,7 +22,7 @@ color:
     - '#63b58c'
     - '#c6e7d6'
     - '#f7f8f7'
-  brandStrength: 0.25
+  brandStrength: 0.375
   lightness: 0.6033130132127553
   saturation: 0.5874229439068586
   rhythmicContrast: 0.5
