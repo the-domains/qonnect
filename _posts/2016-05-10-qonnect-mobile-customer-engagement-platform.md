@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: A mobile customer mobile engagement platform. A private and anonymous communication channel for you customers to interact with your business. Delivery of personalized campaigns on the mobile devices of your customers. That’s qonnect.
-datePublished: '2016-05-10T17:49:10.343Z'
-dateModified: '2016-05-10T17:49:00.663Z'
+datePublished: '2016-05-10T17:54:30.078Z'
+dateModified: '2016-05-10T17:54:15.015Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-qonnect-mobile-customer-engagement-platform.md
