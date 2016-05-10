@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '- Send interactive messages to your customers'
-datePublished: '2016-05-10T18:34:15.937Z'
-dateModified: '2016-05-10T18:33:27.774Z'
+datePublished: '2016-05-10T18:39:29.766Z'
+dateModified: '2016-05-10T18:34:20.798Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10--send-interactive-messages-to-your-customers.md
