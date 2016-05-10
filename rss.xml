@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[qonnect]]></title>
         <description><![CDATA[qonnect]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/qonnect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 17:58:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 18:03:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/qonnect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a35c1c2f-e2d6-4ece-9239-3d16b376c6ec.gif">]]></description>
+            <link>https://thegrid.ai/qonnect/53ea8589-03be-4f58-8578-bcc34901b4a3/index.html</link>
+            <guid isPermaLink="false">53ea8589-03be-4f58-8578-bcc34901b4a3</guid>
+            <pubDate>Tue, 10 May 2016 18:03:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A mobile customer mobile engagement platform. A private and anonymous communication channel for you customers to interact with your business. Delivery of personalized campaigns on the mobile devices of your customers. That’s qonnect. </p>]]></description>
-            <link>undefineda-mobile-customer-mobile-engagement-platform-a-private-and/index.html</link>
+            <link>https://thegrid.ai/qonnect/a-mobile-customer-mobile-engagement-platform-a-private-and/index.html</link>
             <guid isPermaLink="false">878356c1-3cd8-4cd7-a0ae-91652ff14e11</guid>
             <pubDate>Tue, 10 May 2016 17:57:54 GMT</pubDate>
         </item>
