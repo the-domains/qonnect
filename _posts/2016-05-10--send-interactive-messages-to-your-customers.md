@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '- Send interactive messages to your customers'
-datePublished: '2016-05-10T18:39:29.766Z'
-dateModified: '2016-05-10T18:34:20.798Z'
-title: ''
+description: ''
+datePublished: '2016-05-10T18:41:52.880Z'
+dateModified: '2016-05-10T18:41:50.060Z'
+title: '- Send interactive messages to your customers'
 author: []
 sourcePath: _posts/2016-05-10--send-interactive-messages-to-your-customers.md
 authors: []
@@ -21,14 +21,12 @@ url: '-send-interactive-messages-to-your-customers/index.html'
 _type: Article
 
 ---
-[- Send interactive messages to your customers][0]
+# - Send interactive messages to your customers
 
-[- Engage your customers with call to actions and push notifications][0]
+# - Engage your customers with call to actions and push notifications
 
-[- Simplify your customer relationship management and learn what your customers want from your business][0]
+# - Simplify your customer relationship management and learn what your customers want from your business
 
-[- Use Bluetooth Beacons to engage customers on your premises][0]
+# - Use Bluetooth Beacons to engage customers on your premises
 
-[- Surprise your customers with scratch tickets and lotteries][0]
-
-[0]: lets.qonnect.to
+# - Surprise your customers with scratch tickets and lotteries
